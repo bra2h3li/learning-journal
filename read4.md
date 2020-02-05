@@ -2,7 +2,8 @@
 HTML Layout Elements
 Websites often display content in multiple columns (like a magazine or newspaper).
 
-HTML offers several semantic elements that define the different parts of a web page:
+HTML offers several semantic elements
+that define the different parts of a web page:
 
 <header> - Defines a header for a document or a section
 <nav> - Defines a container for navigation links
